@@ -1,0 +1,11 @@
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.exe
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.deps.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.runtimeconfig.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.runtimeconfig.dev.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.dll
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\bin\Debug\netcoreapp3.1\SortData-Query.pdb
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\obj\Debug\netcoreapp3.1\SortData-Query.csprojAssemblyReference.cache
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\obj\Debug\netcoreapp3.1\SortData-Query.AssemblyInfoInputs.cache
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\obj\Debug\netcoreapp3.1\SortData-Query.AssemblyInfo.cs
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\obj\Debug\netcoreapp3.1\SortData-Query.dll
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\SortData-Query\SortData-Query\obj\Debug\netcoreapp3.1\SortData-Query.pdb

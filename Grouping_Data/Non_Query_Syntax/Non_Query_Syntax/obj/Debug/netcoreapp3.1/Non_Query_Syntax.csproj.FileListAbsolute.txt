@@ -1,0 +1,11 @@
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.exe
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.deps.json
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.runtimeconfig.json
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.runtimeconfig.dev.json
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.dll
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\bin\Debug\netcoreapp3.1\Non_Query_Syntax.pdb
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\obj\Debug\netcoreapp3.1\Non_Query_Syntax.csprojAssemblyReference.cache
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\obj\Debug\netcoreapp3.1\Non_Query_Syntax.AssemblyInfoInputs.cache
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\obj\Debug\netcoreapp3.1\Non_Query_Syntax.AssemblyInfo.cs
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\obj\Debug\netcoreapp3.1\Non_Query_Syntax.dll
+D:\SelfStudy2020&2021\Linq\Grouping_Data\Non_Query_Syntax\Non_Query_Syntax\obj\Debug\netcoreapp3.1\Non_Query_Syntax.pdb

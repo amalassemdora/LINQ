@@ -1,0 +1,11 @@
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.exe
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.deps.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.runtimeconfig.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.runtimeconfig.dev.json
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.dll
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\bin\Debug\netcoreapp3.1\Sort_Data_NonQuery.pdb
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\obj\Debug\netcoreapp3.1\Sort_Data_NonQuery.csprojAssemblyReference.cache
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\obj\Debug\netcoreapp3.1\Sort_Data_NonQuery.AssemblyInfoInputs.cache
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\obj\Debug\netcoreapp3.1\Sort_Data_NonQuery.AssemblyInfo.cs
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\obj\Debug\netcoreapp3.1\Sort_Data_NonQuery.dll
+D:\SelfStudy2020&2021\Linq\Sort_Data\New folder\Sort_Data_NonQuery\Sort_Data_NonQuery\obj\Debug\netcoreapp3.1\Sort_Data_NonQuery.pdb

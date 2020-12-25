@@ -1,0 +1,11 @@
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.exe
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.deps.json
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.runtimeconfig.json
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.runtimeconfig.dev.json
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.dll
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\bin\Debug\netcoreapp3.1\Select_in_Linq.pdb
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\obj\Debug\netcoreapp3.1\Select_in_Linq.csprojAssemblyReference.cache
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\obj\Debug\netcoreapp3.1\Select_in_Linq.AssemblyInfoInputs.cache
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\obj\Debug\netcoreapp3.1\Select_in_Linq.AssemblyInfo.cs
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\obj\Debug\netcoreapp3.1\Select_in_Linq.dll
+D:\SelfStudy2020&2021\Linq\Select_in_Linq\Select_in_Linq\obj\Debug\netcoreapp3.1\Select_in_Linq.pdb

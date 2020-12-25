@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sort_Data_NonQuery/1.0.0": {
+        "runtime": {
+          "Sort_Data_NonQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort_Data_NonQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
