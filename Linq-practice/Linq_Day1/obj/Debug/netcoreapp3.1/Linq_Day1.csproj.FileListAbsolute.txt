@@ -1,0 +1,13 @@
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.exe
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.deps.json
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.runtimeconfig.json
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.runtimeconfig.dev.json
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.dll
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\bin\Debug\netcoreapp3.1\Linq_Day1.pdb
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.csprojAssemblyReference.cache
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.AssemblyInfoInputs.cache
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.AssemblyInfo.cs
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.csproj.CoreCompileInputs.cache
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.dll
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.pdb
+E:\ITI\iti\Linq\task\Linq_Day1\Linq_Day1\obj\Debug\netcoreapp3.1\Linq_Day1.genruntimeconfig.cache
